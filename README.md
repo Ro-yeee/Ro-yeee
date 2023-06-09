@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<img src="github-header-image.png" width="200" />
 <!-- <div align="justify"> </div> -->
 
 <br/><a href="https://www.linkedin.com/in/roy-joseph-22b7621a7"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
