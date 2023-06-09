@@ -1,5 +1,4 @@
-![Header](./github-header-image.png)
-# 👋 Hey there , I am Roy 
+<img src="./github-header-image.png" style="text-align:center">
 
 <!-- <div align="justify"> </div> -->
 
